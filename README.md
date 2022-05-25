@@ -19,6 +19,7 @@ Un utilisateur de ce site devrais pour gérer:
 Executez la commande ``docker-compose up -d`` dans le repertoire bdd.
 
 Ensuite à la racine 
+* ``composer install``
 * ``npm i ``
 * ``npm run --watch ``
 * ``symfony serve ``
