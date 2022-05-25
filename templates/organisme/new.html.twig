@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Organisme{% endblock %}
+
+{% block body %}
+    <h1>Nouveau Organisme</h1>
+
+    {{ include('organisme/_form.html.twig') }}
+
+    <a href="{{ path('app_organisme_index') }}">Retour à la liste</a>
+{% endblock %}
