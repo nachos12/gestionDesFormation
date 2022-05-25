@@ -17,6 +17,7 @@ Un utilisateur de ce site devrais pour gérer:
 ### Installation
 
 Executez la commande ``docker-compose up -d`` dans le repertoire bdd.
+
 Ensuite à la racine 
 * ``npm i ``
 * ``npm run --watch ``
